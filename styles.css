@@ -1,0 +1,24 @@
+.album_cover{
+	width:25%;
+	border: 15px solid rgb(17, 90, 84) ;
+	margin: 10px 15px;
+	padding: 9px 4px;
+	box-sizing: border-box;
+}
+
+.photo_list{
+	width:100%;
+	max-height:100px;
+	padding:10px;
+}
+
+/*.single_photo{
+	width:75%;
+ } */
+/*.col-md-1, .col-md-2, .col-md-4{
+	border:1px solid grey;
+}*/
+
+.basic_img{
+	width:100%;
+}
